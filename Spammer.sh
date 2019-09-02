@@ -8,9 +8,11 @@ troll(){
     echo Modificated by:Mr.4N0NYM0U5 | lolcat
     echo " =============================" | lolcat
     sleep 2
-    echo " ==      Troll Spammer      ==" | lolcat
+    echo " ==      Troll Spammer      =="
+ | lolcat
     sleep 0.7
-    echo " =============================" | lolcat
+    echo " ============================="
+ | lolcat
 }
 load(){
     echo -e "\n"
